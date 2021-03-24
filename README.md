@@ -5,6 +5,9 @@ respostas Testes:
 1. Para você, o que significa Business Inteligence ?
 resp: Considero um conjunto de metodologias, tecnicas e ferramentas para analise, transformação de qualquer tipo de dado isolado em informação útil, que sozinhos não possuem   poder para tomada de descisão.
 
+ 1.1 - Qual a modelagem projetada?
+ resp: modelagem Dimensional.
+
 2. Cite duas ferramentas de ETL
 resp: ODI e  PDI.
 3. Cite três ferramentas de apresentação de Dados
